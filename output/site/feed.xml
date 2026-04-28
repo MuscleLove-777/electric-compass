@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>電力比較コンパス</title>
+    <link>https://musclelove-777.github.io/electric-compass/</link>
+    <description>電力自由化後の新電力会社を徹底比較。エネチェンジ・楽天でんき・auでんき等の料金プラン比較、地域別お得な切替先、電気代節約術まで網羅。</description>
+    <language>ja</language>
+    <lastBuildDate>Tue, 28 Apr 2026 09:08:51 +0900</lastBuildDate>
+    <atom:link href="https://musclelove-777.github.io/electric-compass//feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>一人暮らしの電気料金シミュレーション完全ガイド</title>
+      <link>https://musclelove-777.github.io/electric-compass//articles/single-living-electricity-simulation.html</link>
+      <guid>https://musclelove-777.github.io/electric-compass//articles/single-living-electricity-simulation.html</guid>
+      <description></description>
+      <category>電気料金シミュレーション</category>
+      <pubDate>Tue, 28 Apr 2026 00:00:00 +0900</pubDate>
+    </item>
+  </channel>
+</rss>
